@@ -42,9 +42,11 @@ Alongside tech, I’m a creative soul who loves **Drawing, Dancing, Singing, & P
 
 ## 📈 GitHub Stats
 
-![Raima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-**https://github.com/RaimaRai**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Raima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaimaMitra&show_icons=true&theme=radical)
+![Raima's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaimaMitra&theme=radical)
+![Raima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaimaMitra&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RaimaMitra&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://activity-graph.herokuapp.com/graph?username=RaimaMitra&theme=github" alt="Raima's GitHub Activity Graph"/>
 
 ---
 
