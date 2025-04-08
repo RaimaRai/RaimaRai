@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there, I'm Raima Mitra!
 
-<!--
-**RaimaRai/RaimaRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate BCA final-year student from **Techno India Saltlake**, aspiring to become an independent and self-reliant woman through dedication and hard work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💁‍♀️ About Me
+
+- 🎓 Currently pursuing Bachelor of Computer Applications (BCA), graduating in **June 2025**
+- 🏫 Completed Higher Secondary from *Tarasundari Balika Vidyabhaban*, Howrah
+- 🛠️ Tech enthusiast with a love for learning and problem-solving
+- ✍️ Creative soul — I enjoy **drawing**, **dancing**, **singing**, and **photography**
+- 💬 Known for my strong communication, punctuality, and team management skills
+- 🌱 Currently exploring opportunities in **education technology**, especially platforms like **Bhanzu**
+
+---
+
+## 💻 Tech Stack
+
+```bash
+Languages:     C | Java | Python | HTML | CSS | JavaScript
+Tools & Tech:  Git | GitHub | VS Code | Canva | MySQL | Tailwind CSS
