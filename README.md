@@ -53,7 +53,6 @@ Alongside tech, I’m a creative soul who loves **Drawing, Dancing, Singing, & P
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/raima-mitra-921898278**
-- Twitter: **https://x.com/raima_mitra**
 - 📧 Email: **raimamitra5@gmail.com**
 - 🌐 Portfolio: *Coming Soon...*
 
